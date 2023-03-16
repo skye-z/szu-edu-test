@@ -2,7 +2,7 @@
 //  2023年 实验2
 //  dev.betax.edu
 //
-//  Created by 张书恺 on 2023/3/16.
+//  Created by Skay on 2023/3/16.
 //
 
 // 运行某题目请先将函数名改为main
